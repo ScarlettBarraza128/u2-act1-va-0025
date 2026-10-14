@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: elefante original 0025.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_0025\u2-act1-va-0025\img-original-0025\elefante original 0025.jpg
+Formato por extension: .JPG
+Tamano en bytes: 38460
+Tamano en KB: 37.56
+Tamano en MB: 0.0367
+
+DIMENSIONES
+-----------
+Ancho: 528 pixeles
+Alto: 378 pixeles
+Resolucion: 528 x 378
+Total de pixeles: 199,584
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 73.61
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 32.50
+Verde (G): 81.02
+Rojo (R): 107.32
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
